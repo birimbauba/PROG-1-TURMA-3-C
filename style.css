@@ -1,3 +1,7 @@
 .cabeçalho{
 background-color: pink;
 }
+.cabeçalho_titulo{
+font-size: medium;
+align-items: center;
+}
